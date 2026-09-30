@@ -1,0 +1,11 @@
+[
+  {
+    "email": "jane.smith@acmecorp.com",
+    "name": "Jane Smith",
+    "date_sent": "2026-09-30",
+    "subject": "Congrats on the Series B, Jane",
+    "hook_used": "Acme Corp's Series B announcement earlier this month",
+    "status": "sent",
+    "reason": ""
+  }
+]
